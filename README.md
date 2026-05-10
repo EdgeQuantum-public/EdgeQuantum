@@ -1,5 +1,5 @@
 # EdgeQuantum
-**edgeQsim: Quantum Circuit Simulation Framework for Resource-Constrained Edge Devices** (Submitted IoTJ)
+**EdgeQuantum: Quantum Circuit Simulation Framework for Resource-Constrained Edge Devices** (Submitted IoTJ)
 
 ## Overview
 EdgeQuantum is a full state vector quantum circuit simulator designed for resource-constrained IoT edge devices.
